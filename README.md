@@ -20,5 +20,5 @@
 <br />
  
 [website]: https://#
-[linkedin]: https://www.linkedin.com/in/oleksii-mazurenko-896a28237/
-[telegram]: https://t.me/AlekseyMazurenko
+[linkedin]: [Korablevsky/Korablevsky](https://www.linkedin.com/in/maxim-korablev-314488298/)https://www.linkedin.com/in/maxim-korablev-314488298/
+[telegram]: https://t.me/korablevsky
